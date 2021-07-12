@@ -1,0 +1,17 @@
+C:\Users\FrozenDragon\source\repos\WinDers1\bin\Debug\WinDers1.exe.config
+C:\Users\FrozenDragon\source\repos\WinDers1\bin\Debug\WinDers1.exe
+C:\Users\FrozenDragon\source\repos\WinDers1\bin\Debug\WinDers1.pdb
+C:\Users\FrozenDragon\source\repos\WinDers1\obj\Debug\WinDers1.csprojAssemblyReference.cache
+C:\Users\FrozenDragon\source\repos\WinDers1\obj\Debug\WinDers1.Form1.resources
+C:\Users\FrozenDragon\source\repos\WinDers1\obj\Debug\WinDers1.Properties.Resources.resources
+C:\Users\FrozenDragon\source\repos\WinDers1\obj\Debug\WinDers1.csproj.GenerateResource.cache
+C:\Users\FrozenDragon\source\repos\WinDers1\obj\Debug\WinDers1.csproj.CoreCompileInputs.cache
+C:\Users\FrozenDragon\source\repos\WinDers1\obj\Debug\WinDers1.exe
+C:\Users\FrozenDragon\source\repos\WinDers1\obj\Debug\WinDers1.pdb
+C:\Users\FrozenDragon\source\repos\WinDers1\obj\Debug\WinDers1.Form2.resources
+C:\Users\FrozenDragon\source\repos\WinDers1\obj\Debug\WinDers1.Work1.resources
+C:\Users\FrozenDragon\source\repos\WinDers1\obj\Debug\WinDers1.Work2.resources
+C:\Users\FrozenDragon\source\repos\WinDers1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FrozenDragon\source\repos\WinDers1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\FrozenDragon\source\repos\WinDers1\obj\Debug\WinDers1.csproj.CopyComplete
+C:\Users\FrozenDragon\source\repos\WinDers1\obj\Debug\WinDers1.CSGayrimenkul.resources
